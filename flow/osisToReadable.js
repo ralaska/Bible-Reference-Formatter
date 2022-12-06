@@ -35,7 +35,7 @@ function getDefaults() : OptionsType {
 		"$verses": ["v", "vv"],
 
 		"singleChapterFormat": "bv", // or `b` or `bcv`
-		"singleChapterBooks": ["Obad", "Phlm", "2John", "3John", "Jude", "PrAzar", "SgThree", "Sus", "Bel", "EpJer", "PrMan", "Ps151", "AddPs"],
+		"singleChapterBooks": [],
 
 		"Ps151Format": "bc", // or `b`
 		"maxPs": 150,

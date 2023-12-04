@@ -1,6 +1,6 @@
 {
   "name": "bible-reference-formatter",
-  "version": "1.0.1-ralaska-1.0.3",
+  "version": "1.0.1.3",
   "description": "Utility that converts Bible references from OSIS to human-readable formats and Paratext.",
   "main": "es6/en.js",
   "directories": {

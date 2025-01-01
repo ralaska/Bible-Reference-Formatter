@@ -680,4 +680,4 @@ function OsisFormatter() {
 }
 
 /* global module */
-// module.exports = OsisFormatter;
+module.exports = OsisFormatter;
